@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudrafi24&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudrafi24" /> </p>
 
-- 🔭 I'm currently working on [Live Auction Marketplace](https://github.com/sparktechagency/Live_Auction_Marketplace)
+- 🔭 I'm currently working on [Live Auction Marketplace](https://github.com/MD-Redwan-Ul-Abir/Live_Ausction)
 
-- 🌱 I'm currently learning **Flutter, State Management, API Development**
+- 🌱 I'm currently learning **Flutter,Block State Management, API Development**
 
 - 💬 Ask me about **Flutter**
 
