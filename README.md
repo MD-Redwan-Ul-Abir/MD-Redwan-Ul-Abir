@@ -1,32 +1,69 @@
-<h1 align="center">Hi 👋, I'm MD. Redwan Ul Abir</h1>
-<h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudrafi24&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudrafi24" /> </p>
-
-- 🔭 I'm currently working on [Live Auction Marketplace](https://github.com/MD-Redwan-Ul-Abir/Live_Ausction)
-
-- 🌱 I'm currently learning **Flutter,Block State Management, API Development**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **mdredwanulabir@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/radwan-abir-a46666224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="modacher-mahmud-rafi" height="30" width="40" /></a>
-<a href="https://www.facebook.com/radwan.abir.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="modacher.mahmud.rafi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/radwan.abir.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="modacher_mahmud_rafi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/abir35_660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="modacherrafi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-###
-
-<h3 align="left">Stats of Noob:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudrafi24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudrafi24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+```
+$ flutter run --flavor=production
+```
+
+# MD. Redwan Ul Abir
+
+**Flutter Developer** · Dhaka, Bangladesh
+
+Building cross-platform apps with clean architecture, BLoC & GetX.  
+3 published apps across iOS & Android.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radwan-abir-a46666224/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MD-Redwan-Ul-Abir)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/radwan.abir.3)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1BA94C?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abir35_660)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mdredwanulabir@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=mahmudrafi24&style=flat-square&color=7c3aed)
+
+</div>
+
+---
+
+### 🚀 Currently
+
+- 🔭 Building [**Live Auction Marketplace**](https://github.com/MD-Redwan-Ul-Abir/Live_Ausction)
+- 🌱 Deepening **Flutter · BLoC State Management · API Development**
+- 💬 Ask me about **Flutter, Dart, Firebase, Clean Architecture**
+- 📫 Reach me at **mdredwanulabir@gmail.com**
+
+---
+
+### 📱 Published Apps
+
+| App | Platform | Description |
+|-----|----------|-------------|
+| **SGT Sikring** | ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) | Security management app |
+| **Cheeky Charting** | ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | Charting & analytics app |
+| **Hiye** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | Social / lifestyle app |
+
+---
+
+### 🛠 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GetX](https://img.shields.io/badge/GetX-8B5CF6?style=flat-square&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-10B981?style=flat-square&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahmudrafi24&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=7c3aed&icon_color=7c3aed" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudrafi24&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=7c3aed" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudrafi24&theme=tokyonight&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
 </div>
